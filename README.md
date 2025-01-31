@@ -35,7 +35,7 @@ python2 PyEnc.py
 python PyEnc.py
 ```
 ## ScreenShot:
-<img src="[https://h.top4top.io/p_2557dnwon0.jpg" alt="PyEncryptor Screenshot](https://i.ibb.co/M5SnLx1M/Screenshot-20250131-193622-Termux.jpg)">
+<img src="[https://i.ibb.co/M5SnLx1M/Screenshot-20250131-193622-Termux.jpg)">
 
 ## Enjoy 💞💞
 
